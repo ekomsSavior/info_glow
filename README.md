@@ -8,8 +8,8 @@
 ██║██║ ╚████║██║     ╚██████╔╝    ╚██████╔╝███████╗╚██████╔╝╚███╔███╔╝    
 ╚═╝╚═╝  ╚═══╝╚═╝      ╚═════╝      ╚═════╝ ╚══════╝ ╚═════╝  ╚══╝╚══╝     
 
-🎀 Info Glow is an OSINT toolkit made for security researchers, ethical hackers, and cute investigators who love to snoop — ethically, of course.
-Built with love by ekoms savior, this tool is sparkly on the outside, powerful on the inside. 🌸
+🎀 Info Glow is an OSINT toolkit made for security researchers, ethical hackers, and investigators who love to snoop — ethically, of course.
+Built with love by ekoms savior, this tool is cute on the outside, powerful on the inside. 🌸
 
 💻 Features
 
@@ -31,11 +31,10 @@ Built with love by ekoms savior, this tool is sparkly on the outside, powerful o
 
 📂 Markdown + HTML report exports
 
-🌈 Super cute interface with colored output
 
 🚀 How to Install
 
-bash
+bash:
 git clone https://github.com/ekomsSavior/info_glow.git
 cd info_glow
 python3 info_glow.py
@@ -43,7 +42,7 @@ python3 info_glow.py
 📦 This tool uses some external commands like nmap, nikto, whois, and Python libraries like requests and colorama.
 You can install them manually if needed:
 
-bash
+bash:
 sudo apt install nmap nikto whois dnsutils
 pip install requests colorama
 
@@ -53,13 +52,10 @@ pip install requests colorama
 
 If you've already cloned Info Glow, you can pull the latest sparkle updates like this:
 
-```bash
+bash:
 cd info_glow
 git pull
 
-🌸 Screenshots (Optional)
-
-![info_glow](https://github.com/user-attachments/assets/f27cc069-ed18-43a2-abf9-927045330538
 
 💖 License
 Free to use, modify, remix, and glow up.
