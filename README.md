@@ -36,7 +36,7 @@ Built with love by ekoms savior, this tool is sparkly on the outside, powerful o
 🚀 How to Install
 
 bash
-git clone https://github.com/YOUR_USERNAME/info_glow.git
+git clone https://github.com/ekomsSavior/info_glow.git
 cd info_glow
 python3 info_glow.py
 
@@ -46,6 +46,16 @@ You can install them manually if needed:
 bash
 sudo apt install nmap nikto whois dnsutils
 pip install requests colorama
+
+---
+
+## 🔄 Staying Updated
+
+If you've already cloned Info Glow, you can pull the latest sparkle updates like this:
+
+```bash
+cd info_glow
+git pull
 
 🌸 Screenshots (Optional)
 
