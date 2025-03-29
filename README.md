@@ -67,8 +67,6 @@ Open source forever. Let's make cute tools together ✨
 
 **For educational and ethical hacking purposes only. Use responsibly.
 
-By using this software, you agree to use it **only on targets you have permission to investigate** or within legal boundaries of public OSINT research.
-
 💖 Be safe. Be respectful. 
 
 
