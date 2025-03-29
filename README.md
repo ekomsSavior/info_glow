@@ -61,18 +61,11 @@ git pull
 Free to use, modify, remix, and glow up.
 Open source forever. Let's make cute tools together ✨
 
-
 ---
 
 ## ⚠️ Disclaimer
 
-**info glow** is intended for **educational and ethical research purposes only**.
-
-This tool is designed to assist cybersecurity professionals, ethical hackers, researchers, and students in performing open-source intelligence (OSINT) legally and responsibly.
-
-You are solely responsible for how you use this tool.
-
-> 🚫 Do not use Info Glow to stalk, harass, invade privacy, or violate any laws.
+**For educational and ethical hacking purposes only. Use responsibly.
 
 By using this software, you agree to use it **only on targets you have permission to investigate** or within legal boundaries of public OSINT research.
 
