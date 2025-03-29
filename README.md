@@ -80,6 +80,7 @@ By using this software, you agree to use it **only on targets you have permissio
 
 
 
+![info_glow](https://github.com/user-attachments/assets/33868094-5138-4c85-9d93-ecb60d74d6d4)
 
 
 
