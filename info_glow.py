@@ -24,7 +24,7 @@ SERVICE_TAGS = {
     "onetrust": "Compliance (OneTrust)",
     "logmein": "Remote Access (LogMeIn)",
     "adobe": "Adobe Cloud",
-    "teamviewer": "🖥Remote Access (TeamViewer)",
+    "teamviewer": "Remote Access (TeamViewer)",
     "docker": "Docker Integration",
     "spf": "Email Sender Verification",
     "sendgrid": "SendGrid Email Infra",
