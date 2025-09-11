@@ -15,25 +15,25 @@ init()
 CONFIG_PATH = os.path.expanduser("~/.info_glow_config.json")
 
 SERVICE_TAGS = {
-    "bugcrowd": "💰 Bug Bounty (Bugcrowd)",
-    "google-site-verification": "🔐 Google Site Verification",
-    "apple-domain-verification": "🍎 Apple Verification",
-    "microsoft": "💼 Microsoft Cloud",
-    "ms-domain-verification": "💼 Microsoft Verification",
-    "atlassian": "🧪 Atlassian Services",
-    "onetrust": "📜 Compliance (OneTrust)",
-    "logmein": "🔑 Remote Access (LogMeIn)",
-    "adobe": "🎨 Adobe Cloud",
-    "teamviewer": "🖥️ Remote Access (TeamViewer)",
-    "docker": "🐳 Docker Integration",
-    "spf": "📧 Email Sender Verification",
-    "sendgrid": "📨 SendGrid Email Infra",
-    "zendesk": "🎧 Zendesk Support",
-    "qualtrics": "📊 Qualtrics Survey Tool",
-    "ultipro": "💼 HR Platform (UltiPro)",
-    "knowbe4": "🧠 Security Awareness (KnowBe4)",
-    "akam": "🌐 Akamai CDN",
-    "ultradns": "🧠 UltraDNS Provider"
+    "bugcrowd": "Bug Bounty (Bugcrowd)",
+    "google-site-verification": "Google Site Verification",
+    "apple-domain-verification": "Apple Verification",
+    "microsoft": "Microsoft Cloud",
+    "ms-domain-verification": "Microsoft Verification",
+    "atlassian": "Atlassian Services",
+    "onetrust": "Compliance (OneTrust)",
+    "logmein": "Remote Access (LogMeIn)",
+    "adobe": "Adobe Cloud",
+    "teamviewer": "🖥Remote Access (TeamViewer)",
+    "docker": "Docker Integration",
+    "spf": "Email Sender Verification",
+    "sendgrid": "SendGrid Email Infra",
+    "zendesk": "Zendesk Support",
+    "qualtrics": "Qualtrics Survey Tool",
+    "ultipro": "HR Platform (UltiPro)",
+    "knowbe4": "Security Awareness (KnowBe4)",
+    "akam": "Akamai CDN",
+    "ultradns": "UltraDNS Provider"
 }
 
 def pastel_banner():
