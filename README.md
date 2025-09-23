@@ -57,17 +57,15 @@ cd info_glow
 git pull
 
 
-License
-Free to use, modify, remix, and glow up.
-Open source forever. 
+ 
 
 ---
 
-## ⚠ Disclaimer
+## Disclaimer
 
 **For educational and ethical hacking purposes only. Use responsibly.
 
- Be safe. Be respectful. 
+
 
 
 
