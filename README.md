@@ -50,7 +50,7 @@ pip install requests colorama
 
 ##  Staying Updated
 
-If you've already cloned Info Glow, you can pull the latest sparkle updates like this:
+If you've already cloned Info Glow, you can pull the latest updates like this:
 
 bash:
 cd info_glow
