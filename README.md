@@ -8,8 +8,7 @@
 ██║██║ ╚████║██║     ╚██████╔╝    ╚██████╔╝███████╗╚██████╔╝╚███╔███╔╝    
 ╚═╝╚═╝  ╚═══╝╚═╝      ╚═════╝      ╚═════╝ ╚══════╝ ╚═════╝  ╚══╝╚══╝     
 ```
- Info Glow is an OSINT toolkit made for security researchers, ethical hackers, and investigators who love to snoop — ethically, of course.
-Built with love by ekoms savior, this tool is cute on the outside, powerful on the inside. 🌸
+ Info Glow is an OSINT toolkit made for security researchers, ethical hackers, and investigators who love to snoop — ethically.
 
  Features
 
