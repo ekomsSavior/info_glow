@@ -156,7 +156,7 @@ def main():
     pastel_banner()
     while True:
         show_menu()
-        choice = input(Fore.YELLOW + "Choose your sparkle option: " + Style.RESET_ALL)
+        choice = input(Fore.YELLOW + "Choose your module: " + Style.RESET_ALL)
 
         if choice == "1":
             from info_glow_usernames import handle_usernames
@@ -195,7 +195,7 @@ def main():
             handle_vins()
 
         elif choice == "9":
-            pastel_print("Bye bye for now! Stay sparkly ✨")
+            pastel_print("Bye bye for now!")
             break
 
         else:
