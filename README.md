@@ -33,11 +33,11 @@
 
  How to Install
 
-bash:
+```bash
 git clone https://github.com/ekomsSavior/info_glow.git
 cd info_glow
 python3 info_glow.py
-
+```
  This tool uses some external commands like nmap, nikto, whois, and Python libraries like requests and colorama.
 You can install them manually if needed:
 
